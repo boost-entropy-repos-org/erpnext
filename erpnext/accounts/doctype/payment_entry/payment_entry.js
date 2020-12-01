@@ -1,5 +1,6 @@
 // Copyright (c) 2016, Frappe Technologies Pvt. Ltd. and contributors
 // For license information, please see license.txt
+// edit some comment
 {% include "erpnext/public/js/controllers/accounts.js" %}
 
 frappe.ui.form.on('Payment Entry', {
