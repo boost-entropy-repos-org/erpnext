@@ -13,6 +13,8 @@
 
 </div>
 
+Another harmless comment
+
 ERPNext as a monolith includes the following areas for managing businesses:
 
 1. [Accounting](https://erpnext.com/open-source-accounting)
